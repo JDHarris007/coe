@@ -1,0 +1,5 @@
+Accompanying Medium article:  [Postmortem / Correction of Error (CoE) template](https://medium.com/@josh_70523/postmortem-correction-of-error-coe-template-db69481da31d)
+
+Below is a template that I’ve developed over the years of building and operating online services. It’s been inspired by various public postmortem templates and shortcomings/lessons I’ve learned through trial and error.
+
+In an ideal world, failures don’t happen. Until we live in that world, the intention behind the postmortem template is to aid teams in structuring an incident review and facilitating conversation around what can be done better. It’s an opportunity to look at the team, process, and technology in an introspective way and discuss with an open mind on how the customer can be better served. These postmortems provide a durable artifact that can be used to share information, train other ops responders, and provide context for future work items coming from the incident.
