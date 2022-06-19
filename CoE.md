@@ -46,7 +46,7 @@
 **Root Cause:**
 
 ## How was the issue resolved and the impact mitigated?
-> How was the issue get fixed or the customer impact mitigated, and what resources or teams were required to do so?
+> How was the issue resolved or the customer impact mitigated? What resources or teams were required to do so?
 
 ## Were there existing backlog items for this issue?  Was this a known failure mode?
 > Did we already know about this potential failure mode? Did we have scheduled work? Were there backlog items that would have prevented this issue?
